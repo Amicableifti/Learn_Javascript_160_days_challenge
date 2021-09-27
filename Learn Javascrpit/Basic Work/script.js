@@ -19,3 +19,17 @@ console.log(sceondString);
 // this is not a string its a numebr
 var isntNumber='this not a number'
 console.log(isntNumber);
+
+// #Boolean Data TYpe
+// It shold be small letter
+
+//var isTrue = True ; // Not valid
+var isTrue01 = false ; // valid
+
+//console.log(isTrue);
+console.log(isTrue01);
+
+// # undifined
+   
+// var something;  undifined
+// console.log(something);
