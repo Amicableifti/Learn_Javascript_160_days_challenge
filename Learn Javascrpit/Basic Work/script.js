@@ -33,3 +33,6 @@ console.log(isTrue01);
    
 // var something;  undifined
 // console.log(something);
+
+var something = null;
+console.log( something);
