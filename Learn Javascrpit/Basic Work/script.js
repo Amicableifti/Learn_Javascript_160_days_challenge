@@ -33,6 +33,7 @@ console.log(isTrue01);
    
 // var something;  undifined
 // console.log(something);
+// dont want to keep anythinng in varaible and also undifined.
 
 var something = null;
 console.log( something);
